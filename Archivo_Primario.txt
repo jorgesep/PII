@@ -1,0 +1,3 @@
+Archivo de texto primario
+como base de prueba para
+sistema de control de cambios
